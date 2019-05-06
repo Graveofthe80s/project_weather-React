@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    background: #042A38;
+    /*background-image: url("./img/bckgd-orange-gdt.svg");*/
+    color: #333;
+    margin: 130px auto;
+}
